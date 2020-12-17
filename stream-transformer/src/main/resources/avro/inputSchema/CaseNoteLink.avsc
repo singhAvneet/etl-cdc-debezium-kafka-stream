@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "name": "CaseNoteLink",
+  "namespace": "org.gms.model.input.avro",
+  "fields": [
+  {
+              "name": "CL_CaseID",
+              "type": "int"
+          },
+          {
+              "name": "NT_NoteID",
+              "type": "int"
+          }
+  ]
+}
